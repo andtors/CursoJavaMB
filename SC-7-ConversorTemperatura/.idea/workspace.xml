@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30e3013e-38b1-4b5f-88a9-94df4812c142" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/SC-4-Condicionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Condicionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Exercicios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/SC-5-Calculadora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/SC-6-Funcoes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2uI2oEJ2m01VbgOpn84dk4KE4gR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30e3013e-38b1-4b5f-88a9-94df4812c142" name="Changes" comment="" />
+      <created>1741921942911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741921942911</updated>
+    </task>
+    <servers />
+  </component>
+</project>
