@@ -1,39 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30e3013e-38b1-4b5f-88a9-94df4812c142" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/SC-4-Condicionais.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Condicionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Exercicio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-4-Condicionais/src/Exercicios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/SC-5-Calculadora.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-5-Calculadora/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/SC-6-Funcoes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SC-4-Condicionais/SC-6-Funcoes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2uI2oEJ2m01VbgOpn84dk4KE4gR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,10 +26,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SC-7-ConversorTemperatura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
