@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Exercicios {
@@ -34,8 +35,6 @@ public class Exercicios {
                 maisFrequente = array.get(x);
             }
         }
-
-
 
         return "O mais frequente é " + maisFrequente;
 
@@ -101,7 +100,61 @@ public class Exercicios {
         System.out.println(arrayInt);
         System.out.println("Procurando elemento com mais frequencia...");
         System.out.println(numeroFrequencia(arrayInt));
+
+        // Ex3
+        int[][] matriz = {
+                {1, 2, 3},
+                {4, 5, 6}
+        };
+
+        int[][] matrizInv = new int[2][3];
+
+        for(int i = 0; i < matriz.length - 1; i++){
+            System.out.println("Array: " + i);
+            for(int j = 0; j < matriz.length; j++){
+                System.out.println("Linha " + j + ": " + Arrays.toString(matriz[j]));
+            }
+        }
+
+        System.out.println("Invertendo matriz...");
+        int[] arrayParaInv = new int[1];
+        for(int i = 0; i < matriz.length - 1; i++){
+            for(int j = 0; j < matriz.length; j++){
+                matrizInv[i] = matriz[j];
+                arrayParaInv = matriz[i];
+                matrizInv[j] = arrayParaInv;
+            }
+        }
+
+        for(int[] linha : matrizInv){
+            System.out.println(Arrays.toString(linha));
+        }
+
+        // Ex4
+        int[] arrayComNegativos = {1, -2, 3, -4, 5, -6};
+
+        System.out.println(Arrays.toString(arrayComNegativos));
+
+        for(int i = 0; i < arrayComNegativos.length; i++){
+            if(arrayComNegativos[i] < 0){
+                arrayComNegativos[i] = 0;
+            }
+        }
+
+        System.out.println(Arrays.toString(arrayComNegativos));
+
+        // Ex5
+        int[] arrayComDuplicados = {1, 2, 2, 2, 3, 4, 4, 5};
+
+        ArrayList<Integer> arraySemDuplicados = new ArrayList<>();
+
+        for(int numero : arrayComDuplicados){
+            if(!arraySemDuplicados.contains(numero)){
+                arraySemDuplicados.add(numero);
+            }
+        }
+
+        System.out.println(Arrays.toString(arrayComDuplicados));
+        System.out.println(arraySemDuplicados);
     }
-
-
 }

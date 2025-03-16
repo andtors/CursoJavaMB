@@ -1,5 +1,9 @@
+import com.sun.security.jgss.GSSUtil;
+
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -250,5 +254,101 @@ public class Main {
             System.out.println(Arrays.toString(linha));
         }
 
+        // 10 - Ordenando arrays
+        int[] numbers = {5, 6, 1, 4, 2, 22, 1};
+
+        // Ordenando em ordem crescente
+        System.out.println(Arrays.toString(numbers));
+
+        Arrays.sort(numbers);
+
+        System.out.println(Arrays.toString(numbers));
+
+        // Ordenando em ordem descrescente
+        String[] names = {"João", "Bob", "Pedro", "Marco"};
+
+        System.out.println(Arrays.toString(names));
+
+        Arrays.sort(names, Comparator.reverseOrder());
+
+        System.out.println(Arrays.toString(names));
+
+        // Ordenando matriz
+        int[][] matrizSort = {
+                {4, 5, 1},
+                {3, 8, 9},
+                {2, 3, 1}
+        };
+
+        // Ordenação de linhas por um valor de coluna
+        Arrays.sort(matrizSort, Comparator.comparingInt(a -> a[0]));
+
+       for(int[] linha : matrizSort){
+           System.out.println(Arrays.toString(linha));
+       }
+
+       // Sem precisar de foreach
+        System.out.println(Arrays.deepToString(matrizSort));
+
+       // 11 - Manipulação avançada
+        int[] original = {1, 2, 2, 3};
+
+        // começa no 1
+        int[] copia = Arrays.copyOf(original, 2);
+
+        System.out.println(Arrays.toString(copia));
+
+        int[] numerosFill = new int[5];
+
+        System.out.println(Arrays.toString(numerosFill));
+
+        Arrays.fill(numerosFill, 5);
+
+        System.out.println(Arrays.toString(numerosFill));
+
+        // array para stream
+        int[] values = {1, 2, 3, 4, 5};
+
+        int sum = Arrays.stream(values).sum();
+
+        System.out.println(sum);
+
+        // 12 - Arrays dinamicos
+        ArrayList<String> frutasAL = new ArrayList<>();
+
+        System.out.println(frutasAL);
+
+        frutasAL.add("Maça");
+
+        frutasAL.add("Banana");
+
+        System.out.println(frutasAL);
+
+        for(String fruta : frutasAL){
+            System.out.println(fruta);
+        }
+
+        frutasAL.remove("Banana");
+
+        System.out.println(frutasAL);
+
+        frutasAL.remove(0);
+
+        System.out.println(frutasAL);
+
+        frutasAL.add("Maça");
+
+        String frutaEspecificada = frutasAL.get(0);
+
+        System.out.println(frutaEspecificada);
+
+        List<Integer> listaInt = new ArrayList<>();
+
+        listaInt.add(1);
+        listaInt.add(2);
+        listaInt.add(23);
+        listaInt.add(234);
+
+        System.out.println(listaInt);
     }
 }
