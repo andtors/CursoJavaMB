@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoJavaMB.iml" filepath="$PROJECT_DIR$/.idea/CursoJavaMB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-1-Intro/SC-1-Intro.iml" filepath="$PROJECT_DIR$/SC-1-Intro/SC-1-Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-10-Arrays/SC-10-Arrays.iml" filepath="$PROJECT_DIR$/SC-10-Arrays/SC-10-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-11-JogoForca/SC-11-JogoForca.iml" filepath="$PROJECT_DIR$/SC-11-JogoForca/SC-11-JogoForca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-12-POO/SC-12-POO.iml" filepath="$PROJECT_DIR$/SC-12-POO/SC-12-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-2-Var/SC-2-Var.iml" filepath="$PROJECT_DIR$/SC-2-Var/SC-2-Var.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-3-Tabuada/SC-3-Tabuada.iml" filepath="$PROJECT_DIR$/SC-3-Tabuada/SC-3-Tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-4-Condicionais/SC-4-Condicionais.iml" filepath="$PROJECT_DIR$/SC-4-Condicionais/SC-4-Condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-5-Calculadora/SC-5-Calculadora.iml" filepath="$PROJECT_DIR$/SC-5-Calculadora/SC-5-Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-6-Funcoes/SC-6-Funcoes.iml" filepath="$PROJECT_DIR$/SC-6-Funcoes/SC-6-Funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-7-ConversorTemperatura/SC-7-ConversorTemperatura.iml" filepath="$PROJECT_DIR$/SC-7-ConversorTemperatura/SC-7-ConversorTemperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-8-Loops/SC-8-Loops.iml" filepath="$PROJECT_DIR$/SC-8-Loops/SC-8-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-9-Calculadora/SC-9-Calculadora.iml" filepath="$PROJECT_DIR$/SC-9-Calculadora/SC-9-Calculadora.iml" />
+    </modules>
+  </component>
+</project>
