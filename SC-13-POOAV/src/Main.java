@@ -95,5 +95,7 @@ public class Main {
         violino.exibirDetalhes();
 
         violino.tocar();
+
+        // 11 - Metodos e classes final
     }
 }
