@@ -1,0 +1,4 @@
+Executando o metodo executarTarefa
+Executando o metodo processarDados
+Executando o metodo processarDados
+Executando o metodo executarTarefa
